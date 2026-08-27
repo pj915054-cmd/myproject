@@ -12,3 +12,4 @@ def test_mutiple():
 def test_divide():
     assert divide(10,20) == 0
     
+
